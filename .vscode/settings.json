@@ -1,8 +1,0 @@
-{
-    "python.pythonPath": "C:\\Users\\91865\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
-    "python.linting.enabled": true,
-    "python.linting.pylintEnabled": false,
-    "python.linting.banditEnabled": false,
-    "python.linting.mypyEnabled": true,
-    "jupyter.jupyterServerType": "local"
-}
