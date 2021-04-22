@@ -1,0 +1,1 @@
+## The Kaggle notebook link for the final project is : [my notebook](https://www.kaggle.com/suvooo/detailed-explanation-logistic-regression)
